@@ -16,3 +16,9 @@ for i in её:
 for i in диграфы:  
   колво = текст.count(i)
   print(i, колво)
+#результат = open('C:/Users/ivleonov/Desktop/res.txt', 'w')
+#for i in диграфы:  
+#  колво = текст.count(i)
+#  результат.write(i  + '\t')
+#  результат.write(str(колво) + '\n')
+#результат.close()
